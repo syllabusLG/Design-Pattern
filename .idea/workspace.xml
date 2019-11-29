@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ed8b8a0-0de4-4784-ac46-bd7363b2422b" name="Default Changelist" comment="" />
+    <list default="true" id="1ed8b8a0-0de4-4784-ac46-bd7363b2422b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/war/File.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/war/Folder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/war/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/war/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/war/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/war/Main.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UFY9pssft6IqG3KTM0zlbVwQ1C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -43,6 +53,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,11 +69,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574953661839</updated>
-      <workItem from="1574953665199" duration="703000" />
+      <workItem from="1574953665199" duration="730000" />
+      <workItem from="1574956028562" duration="5211000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

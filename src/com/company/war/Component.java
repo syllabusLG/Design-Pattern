@@ -3,11 +3,19 @@ package com.company.war;
 public abstract class Component {
 
     protected String name;
-    private int level;
+    protected int level;
 
     public Component(String name) {
         this.name = name;
     }
 
     public abstract void view();
+
+    public String indentation(){
+        String tab = "";
+        for(int i = 0; i < level; i++){
+            tab+="\t";
+        }
+        return tab;
+    }
 }
